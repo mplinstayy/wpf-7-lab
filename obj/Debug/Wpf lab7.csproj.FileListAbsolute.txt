@@ -1,0 +1,32 @@
+C:\Users\310-11\Desktop\Wpf lab7\bin\Debug\Wpf lab7.exe.config
+C:\Users\310-11\Desktop\Wpf lab7\bin\Debug\Wpf lab7.exe
+C:\Users\310-11\Desktop\Wpf lab7\bin\Debug\Wpf lab7.pdb
+C:\Users\310-11\Desktop\Wpf lab7\obj\Debug\Wpf lab7.csproj.AssemblyReference.cache
+C:\Users\310-11\Desktop\Wpf lab7\obj\Debug\Wpf lab7.csproj.SuggestedBindingRedirects.cache
+C:\Users\310-11\Desktop\Wpf lab7\obj\Debug\MainWindow.g.cs
+C:\Users\310-11\Desktop\Wpf lab7\obj\Debug\App.g.cs
+C:\Users\310-11\Desktop\Wpf lab7\obj\Debug\Wpf lab7_MarkupCompile.cache
+C:\Users\310-11\Desktop\Wpf lab7\obj\Debug\Wpf lab7_MarkupCompile.lref
+C:\Users\310-11\Desktop\Wpf lab7\obj\Debug\MainWindow.baml
+C:\Users\310-11\Desktop\Wpf lab7\obj\Debug\Wpf lab7.g.resources
+C:\Users\310-11\Desktop\Wpf lab7\obj\Debug\Wpf_lab7.Properties.Resources.resources
+C:\Users\310-11\Desktop\Wpf lab7\obj\Debug\Wpf lab7.csproj.GenerateResource.cache
+C:\Users\310-11\Desktop\Wpf lab7\obj\Debug\Wpf lab7.csproj.CoreCompileInputs.cache
+C:\Users\310-11\Desktop\Wpf lab7\obj\Debug\Wpf lab7.exe
+C:\Users\310-11\Desktop\Wpf lab7\obj\Debug\Wpf lab7.pdb
+D:\трпо\Wpf lab7\bin\Debug\Wpf lab7.exe.config
+D:\трпо\Wpf lab7\bin\Debug\Wpf lab7.exe
+D:\трпо\Wpf lab7\bin\Debug\Wpf lab7.pdb
+D:\трпо\Wpf lab7\obj\Debug\Wpf lab7.csproj.AssemblyReference.cache
+D:\трпо\Wpf lab7\obj\Debug\Wpf lab7.csproj.SuggestedBindingRedirects.cache
+D:\трпо\Wpf lab7\obj\Debug\MainWindow.g.cs
+D:\трпо\Wpf lab7\obj\Debug\App.g.cs
+D:\трпо\Wpf lab7\obj\Debug\Wpf lab7_MarkupCompile.cache
+D:\трпо\Wpf lab7\obj\Debug\Wpf lab7_MarkupCompile.lref
+D:\трпо\Wpf lab7\obj\Debug\MainWindow.baml
+D:\трпо\Wpf lab7\obj\Debug\Wpf lab7.g.resources
+D:\трпо\Wpf lab7\obj\Debug\Wpf_lab7.Properties.Resources.resources
+D:\трпо\Wpf lab7\obj\Debug\Wpf lab7.csproj.GenerateResource.cache
+D:\трпо\Wpf lab7\obj\Debug\Wpf lab7.csproj.CoreCompileInputs.cache
+D:\трпо\Wpf lab7\obj\Debug\Wpf lab7.exe
+D:\трпо\Wpf lab7\obj\Debug\Wpf lab7.pdb
